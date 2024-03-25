@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sheee6000
 - 👀 I’m interested in .web development and cybersecurity..
-- 🌱 I’m currently learning .html,css and javascript.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently proficient in html,css and javascript.
 - 📫 How to reach me through my email ndiranguwanjiru138@gmail.com...
 
 <!---
